@@ -6,7 +6,7 @@ public class lab2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите строку с шестнадцатиричным идентификатором цвета в HTML.");
         String s =sc.nextLine();
-        String regex = "()#((\\d|[a-f]|[A-Z]){6})" ;
+        String regex = "()#((\\d|[a-f]|[A-F]){6})" ;
         Pattern p = Pattern. compile (regex);
         Matcher m = p.matcher(s);
         while (m.find()) {
