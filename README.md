@@ -1,3 +1,4 @@
 5.) Написать регулярное выражение, определяющее является ли данная строчка шестнадцатиричным идентификатором цвета в HTML. Где #FFFFFF для белого, #000000 для черного, #FF0000 для красного и т.д.
 
-![image](https://github.com/user-attachments/assets/90930b4b-3ad9-45fd-826c-98b1ea245835)
+![image](https://github.com/user-attachments/assets/8ad26363-b494-411f-bd2e-24d0de6ff9ee)
+
